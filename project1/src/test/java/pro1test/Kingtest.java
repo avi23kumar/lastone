@@ -14,6 +14,7 @@ public class Kingtest {
 		System.out.println(BROWSER);
 		System.out.println(USERNAME);
 		System.out.println(PAssword);
+		
 		System.out.println("1111111");
 		System.out.println("print one c");
 	}
